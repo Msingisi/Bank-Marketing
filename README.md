@@ -1,4 +1,10 @@
 # Bank-Marketing
+
+<div align="center">
+  <img src="https://github.com/Msingisi/Bank-Marketing/blob/main/bank-marketing.png" alt="Bank Marketing">
+  <p><em>Figure 1: Bank Marketing</em></p>
+</div>
+
 **Overall Summary:**
 The dataset reveals that certain demographic factors (like job, marital status, and education), financial factors (like credit default, housing loan, and personal loan status), and behavioral factors (like contact communication type, last contact month, and duration of the last contact) significantly influence the likelihood of clients subscribing to a term deposit. Longer call durations and successful outcomes from previous campaigns are particularly strong predictors of subscription.
 
