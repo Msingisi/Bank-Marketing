@@ -30,3 +30,10 @@ Objective: To predict whether a client will subscribe to a term deposit based on
 ## Quick glance at the results
 
 Correlation between the features.
+
+![heatmap](images/correlation_matrix.png)
+
+**Key Insights:**
+Duration of the call has the strongest positive correlation with the target variable y (0.395), suggesting that longer calls are more effective in securing subscriptions.
+Campaign has a slight negative correlation with y (-0.073), indicating that clients contacted more frequently in the current campaign are less likely to subscribe.
+Pdays and previous show positive correlations with y, suggesting that clients with longer intervals since the last contact and more previous contacts are more likely to subscribe.
