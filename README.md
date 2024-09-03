@@ -19,10 +19,14 @@ The primary business problem addressed by the Bank Marketing Dataset is to impro
 Objective: To predict whether a client will subscribe to a term deposit based on their demographic, financial, and behavioral characteristics.
 
 # Key Questions
-Who are the clients most likely to subscribe to a term deposit?
-What are the key factors influencing a client’s decision to subscribe?
-How can the bank improve its marketing strategies to increase subscription rates?
+- Who are the clients most likely to subscribe to a term deposit?
+- What are the key factors influencing a client’s decision to subscribe?
+- How can the bank improve its marketing strategies to increase subscription rates?
 
 ## Data source
 
 - [UCI Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+
+## Quick glance at the results
+
+Correlation between the features.
