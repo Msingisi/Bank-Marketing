@@ -74,3 +74,16 @@ Top 4 models (with default parameters)
 | Bagging             | 88%                 |
 | Gradient boosting    	        | 83% 	            |
 
+- **The final model used for this project: Bagging**
+- After parameters tuning Bagging Classifier yield better results
+- **Metrics used: Precision**
+
+ **Lessons learned and recommendation**
+
+- Based on this project's analysis, certain demographic factors (like job, marital status, and education), financial factors (like credit default, housing loan, and personal loan status), and behavioral factors (like contact communication type, last contact month, and duration of the last contact) significantly influence the likelihood of clients subscribing to a term deposit. Longer call durations and successful outcomes from previous campaigns are particularly strong predictors of subscription.
+- The recommendation would be to focus more on the most predictive features when looking at the clients who are likely to subscribe to a term deposit and pay less attention to the least predictive features.
+
+## Limitation and what can be improved
+
+- Hyperparameter tuning with random search.
+- Retrain the model without the least predictive features
