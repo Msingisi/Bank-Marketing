@@ -57,4 +57,20 @@ Students and Retired individuals have the highest subscription rates at 28.68% a
 Blue-Collar workers have the lowest subscription rate at 7.27%, indicating they are less likely to subscribe.
 Management and Unemployed individuals also show relatively higher subscription rates at 13.76% and 15.50%, respectively.
 
+Confusion matrix of Bagging classifier.
+
+![Confusion matrix](images/BaggingClassifier(random_state%3D42)_confusion_matrix.png)
+
+ROC curve of Bagging classifier.
+
+![ROC curve](images/BaggingClassifier(random_state%3D42)_roc_curve.png)
+
+Top 4 models (with default parameters)
+
+| Model     	                | Precision score 	|
+|-------------------	        |------------------	|
+| Extra Trees         | 89%                    |
+| Random Forest     	| 88% 	            |
+| Bagging             | 88%                 |
+| Gradient boosting    	        | 83% 	            |
 
