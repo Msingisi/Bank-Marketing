@@ -85,5 +85,5 @@ Top 4 models (with default parameters)
 
 ## Limitation and what can be improved
 
-- Hyperparameter tuning with random search.
+- Hyperparameter tuning with grid search.
 - Retrain the model without the least predictive features
